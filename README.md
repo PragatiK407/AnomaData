@@ -12,3 +12,13 @@ This project aims to predict machine breakdown by detecting anomalies using a bi
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the EDA notebook: `jupyter notebook notebooks/eda.ipynb`
 3. Train the model: `python notebooks/model_training.py`
+Deployment Instructions in README.md:
+Update your README.md with deployment instructions.
+
+
+## Deployment Instructions
+
+### Step 1: Set Up Environment
+Install the required Python dependencies by running:
+```bash
+pip install -r requirements.txt
