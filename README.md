@@ -45,5 +45,5 @@ predictions = model.predict(new_data)
 
 # Output predictions
 print(predictions)
-yaml
+
 
